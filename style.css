@@ -106,3 +106,5 @@ body#md {
 .md div.afterTitles {
     height: 90px;
 }
+
+.bigger { font-size:20px; }
